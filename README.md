@@ -19,6 +19,7 @@ An application that helps to acquire skills in the IT field
 ## Goals
 **What is our goal?**
 + Our goal is to develop a useful application that will really help IT students with becoming a specialist right and on time without spending their precious time.
+
 **What problems does our project solve?**
 + Nowadays, the majority of IT students do not know or not sure about what steps are to be taken in order to be a good specialist right and on time. Unfortunately, even some students who are almost to graduate face the same problem.
 Furthermore, the list of internships and jobs are spread, which makes it difficult to find our dream job. To solve this very issue, we have come up with the idea of creating a universal application, which will contain all the necessary and vital things as were listed above. We have chosen the format of an application in order to make it accessible always and everywhere.
@@ -41,8 +42,12 @@ We will have following pages:
 *Write description of user personas here*  
 
 ## User stories
-
-*Write your user stories here*
+**App users**
++ As a user, I want to see the list of up-to-date jobs, so I can be aware of them.
++ As a user, I want to have the list of mentors, so I can choose an appropriate one.
++ As a user, I want to have a roadmap by chosen area, so I can easily become a specialist.
++ As a user, I want to tick off the skills that I have already gained, so I can clearly see my progress.
++ As a user, I want to timely receive a notification about IT events, so I don't miss them.
 
 ## Sitemap, Page descriptions
 
