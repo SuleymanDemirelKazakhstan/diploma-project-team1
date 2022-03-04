@@ -1,7 +1,10 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
-+ **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
++ **Gizat Kuanov** (*180103290*)- Project Manager (GitHub account: *jetlee*)
++ **Mukhkhamedali Muratkhan** (*180103196*)- Backend Developer (GitHub account: *jetlee*)
++ **Nurbek Suyunov** (*180103151*) - Android Developer (GitHub account: *jackychan*)
++ **Yerkebulan Issakov** (*180103101*) - QA Engineer, Backend Developer Assistant (GitHub account: *jackychan*)
++ **Zhassulan Zholdasbekov** (*180103164*) - UX/UI Designer (GitHub account: *jackychan*)
 
 ## Project
 This project is yet-another clone of Instagram
