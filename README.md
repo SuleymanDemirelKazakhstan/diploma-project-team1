@@ -14,6 +14,7 @@ An application that helps to acquire skills in the IT field
 + 15minute.online
 + career.habr.com
 + roadmap.sh
++ LinkedIn Skill Assessments
 
 ## Goals
 
