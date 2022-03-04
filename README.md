@@ -31,7 +31,7 @@ We will have following pages:
 
 ## Goals
 + **What is our goal?**
-+ Our goal is to develop a useful application that will really help IT students with becoming a specialist right and on time without spending their precious time.
+    Our goal is to develop a useful application that will really help IT students with becoming a specialist right and on time without spending their precious time.
 * What is the purpose of this project?
 * What are the problems it will solve?
 * How will it streamline or improve the current process or facilitate a new process?
