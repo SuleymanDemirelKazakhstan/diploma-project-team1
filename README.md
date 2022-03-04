@@ -62,13 +62,18 @@ We will have following pages:
 *Write non-functional requirements*
 
 ## Risks
-*What are the risks?*
++ There might be a risk where we won't be able bo parse vacancies
++ If the previous risk is not met, then we might face a problem with blocking it
 
 ## Mockups, Wireframes
 ![Frame 96](https://user-images.githubusercontent.com/48471189/156759810-fc7b86dc-6ef0-4885-8e0e-9b542abe8e41.png)
+
 ![Frame 97](https://user-images.githubusercontent.com/48471189/156759814-52868a20-96ab-48c1-a75a-3f242614f296.png)
+
 ![Frame 98](https://user-images.githubusercontent.com/48471189/156759819-7bd44dab-f186-42e0-85af-b39c3d3735d0.png)
+
 ![Frame 94](https://user-images.githubusercontent.com/48471189/156759822-082b32e4-a0f3-4b98-96d2-b60e872a1127.png)
+
 ![Frame 95](https://user-images.githubusercontent.com/48471189/156759825-ce299f5b-e813-4dc4-bdb8-727b83bed8da.png)
 
 
