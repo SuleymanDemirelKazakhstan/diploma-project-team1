@@ -26,8 +26,11 @@ Furthermore, the list of internships and jobs are spread, which makes it difficu
 
 ## Technologies
 **Backend:** Django, Django Rest
+
 **Frontend:** Retrofit OkHTTP
+
 **UX/UI:** Figma
+
 **Development methodology:** Agile (Scrum)
 
 ## Pages / Activities 
@@ -51,7 +54,9 @@ We will have following pages:
 
 ## Sitemap, Page descriptions
 
-*Display sitemap here*
+![Снимок экрана (1007)](https://user-images.githubusercontent.com/48471189/156759507-0701223c-2a5a-40b4-9d12-1f67f20adc69.png)
+
+![Снимок экрана (1008)](https://user-images.githubusercontent.com/48471189/156759552-dc79cbdd-4a4e-4a16-8e3b-3a45cd519e7b.png)
 
 ## Non-Functional requirements
 *Write non-functional requirements*
@@ -60,7 +65,12 @@ We will have following pages:
 *What are the risks?*
 
 ## Mockups, Wireframes
-*Put here images of your wireframes*
+![Frame 96](https://user-images.githubusercontent.com/48471189/156759810-fc7b86dc-6ef0-4885-8e0e-9b542abe8e41.png)
+![Frame 97](https://user-images.githubusercontent.com/48471189/156759814-52868a20-96ab-48c1-a75a-3f242614f296.png)
+![Frame 98](https://user-images.githubusercontent.com/48471189/156759819-7bd44dab-f186-42e0-85af-b39c3d3735d0.png)
+![Frame 94](https://user-images.githubusercontent.com/48471189/156759822-082b32e4-a0f3-4b98-96d2-b60e872a1127.png)
+![Frame 95](https://user-images.githubusercontent.com/48471189/156759825-ce299f5b-e813-4dc4-bdb8-727b83bed8da.png)
+
 
 ## Future iterations
 *Write your future iterations*
