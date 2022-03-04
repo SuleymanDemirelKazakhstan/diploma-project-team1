@@ -10,10 +10,10 @@
 An application that helps to acquire skills in the IT field
 
 ## Alternatives / Market research
-| hh.kz
-| 15minute.online
-| career.habr.com
-| roadmap.sh
++ hh.kz
++ 15minute.online
++ career.habr.com
++ roadmap.sh
 
 ## Goals
 
