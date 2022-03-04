@@ -17,25 +17,25 @@ An application that helps to acquire skills in the IT field
 + LinkedIn Skill Assessments
 
 ## Goals
+**What is our goal?**
++ Our goal is to develop a useful application that will really help IT students with becoming a specialist right and on time without spending their precious time.
+**What problems does our project solve?**
++ Nowadays, the majority of IT students do not know or not sure about what steps are to be taken in order to be a good specialist right and on time. Unfortunately, even some students who are almost to graduate face the same problem.
+Furthermore, the list of internships and jobs are spread, which makes it difficult to find our dream job. To solve this very issue, we have come up with the idea of creating a universal application, which will contain all the necessary and vital things as were listed above. We have chosen the format of an application in order to make it accessible always and everywhere.
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+**Backend:** Django, Django Rest
+**Frontend:** Retrofit OkHTTP
+**UX/UI:** Figma
+**Development methodology:** Agile (Scrum)
 
 ## Pages / Activities 
 We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
-- Settings page
-
-## Goals
-+ **What is our goal?**
-    Our goal is to develop a useful application that will really help IT students with becoming a specialist right and on time without spending their precious time.
-* What is the purpose of this project?
-* What are the problems it will solve?
-* How will it streamline or improve the current process or facilitate a new process?
-* What is the product vision?
+- Main Page
+- Profile page
+- Roadmap page
+- Vacancies
+- List of mentors page
 
 ## User Personas
 *Write description of user personas here*  
