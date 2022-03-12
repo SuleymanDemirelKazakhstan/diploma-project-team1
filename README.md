@@ -25,9 +25,9 @@ An application that helps to acquire skills in the IT field
 Furthermore, the list of internships and jobs are spread, which makes it difficult to find our dream job. To solve this very issue, we have come up with the idea of creating a universal application, which will contain all the necessary and vital things as were listed above. We have chosen the format of an application in order to make it accessible always and everywhere.
 
 ## Technologies
-**Backend:** Django, Django Rest
+**Back-end:** Django, DRF, Python3, PostgreSQL
 
-**Frontend:** Retrofit OkHTTP
+**Mobile:** Retrofit OkHTTP
 
 **UX/UI:** Figma
 
