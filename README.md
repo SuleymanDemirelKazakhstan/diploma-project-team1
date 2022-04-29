@@ -28,10 +28,10 @@ Furthermore, the list of internships and jobs are spread, which makes it difficu
 **Back-end:** Python3, Django, DRF, PostgreSQL, Core API
 
 **Mobile:**
-Programming language Kotlin
-Libraries - Retrofit Okhttp Glide Navigation Component
-Dependency Injection - Koin
-Pattern - Model View View Model (MVVM)
+Programming language - Kotlin;
+Libraries - Retrofit, Okhttp, Glide, Navigation Component;
+Dependency Injection - Koin;
+Pattern - Model View View Model (MVVM);
 
 **UX/UI:** Figma
 
