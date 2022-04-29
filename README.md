@@ -1,10 +1,10 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Gizat Kuanov** (*180103290*)- Project Manager (GitHub account: *jetlee*)
++ **Gizat Kuanov** (*180103290*)- Project Manager (GitHub account: *kuanov*)
 + **Mukhkhamedali Muratkhan** (*180103196*)- Backend Developer (GitHub account: *platon09*)
-+ **Nurbek Suyunov** (*180103151*) - Android Developer (GitHub account: *jackychan*)
-+ **Yerkebulan Issakov** (*180103101*) - QA Engineer, Backend Developer Assistant (GitHub account: *jackychan*)
-+ **Zhassulan Zholdasbekov** (*180103164*) - UX/UI Designer (GitHub account: *jackychan*)
++ **Nurbek Suyunov** (*180103151*) - Android Developer (GitHub account: *suyunur*)
++ **Yerkebulan Issakov** (*180103101*) - QA Engineer, Backend Developer Assistant (GitHub account: *yerkebulani*)
++ **Zhassulan Zholdasbekov** (*180103164*) - UX/UI Designer (GitHub account: *ZholdasbekovZhassulan*)
 
 ## Project
 An application that helps to acquire skills in the IT field
