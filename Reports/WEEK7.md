@@ -1,6 +1,20 @@
-# Jet Lee
-* Made kung-fu
-* Learned kung-fu
-# Jacky Chan
-* Learn kung-fu
-* Invented kung-fu
+# Zhassulan Zholdabekov
+* Wireframes
+* Black and white detailed layout of the site page. Here I am arranging the elements: buttons, images, texts.
+* ![favorites](https://user-images.githubusercontent.com/50594402/170433347-75484e66-2b91-4c52-aba9-5a611ba4fe86.jpg)
+* ![Filter Vacancy](https://user-images.githubusercontent.com/50594402/170433066-cae8f6be-bed1-433c-93e9-a8f430c76dfe.jpg)
+* ![Forgot Password](https://user-images.githubusercontent.com/50594402/170433076-63cea9d5-fa8d-467c-ab0b-2ba61bad990e.jpg)
+* ![Forgot Password-1](https://user-images.githubusercontent.com/50594402/170433079-a3fcb72d-5699-4015-9877-e8460e978b20.jpg)
+* ![Frame 100](https://user-images.githubusercontent.com/50594402/170433084-898c7678-5f05-4154-add7-e62f94c0c20d.jpg)
+* ![Front](https://user-images.githubusercontent.com/50594402/170433092-d2b121b7-539a-47df-a718-c9aac7d34d49.jpg)
+* ![Front-1](https://user-images.githubusercontent.com/50594402/170433095-9bab8138-96f6-4ff7-a454-aa62114679cb.jpg)
+* ![HOME PAGE](https://user-images.githubusercontent.com/50594402/170433097-745b84a9-1fc8-430a-9d50-971bc7cb92e3.jpg)
+* ![Profile](https://user-images.githubusercontent.com/50594402/170433102-1beee482-ce3c-4081-9ff4-cee0b26c8e7d.jpg)
+* ![Profile-1](https://user-images.githubusercontent.com/50594402/170433109-1f76e659-f9cb-4e07-a8dd-e783bdc69199.jpg)
+* ![Reset Password](https://user-images.githubusercontent.com/50594402/170433112-d31f7b22-8888-4fdc-b2ac-48f9864642a0.jpg)
+* ![Reset Password-1](https://user-images.githubusercontent.com/50594402/170433117-d9922788-2922-454e-9ecf-c81ea77d6e35.jpg)
+* ![Roadmap](https://user-images.githubusercontent.com/50594402/170433124-c056eff4-a656-419e-a40a-6ea6f80d936f.jpg)
+* ![Roadmap-1](https://user-images.githubusercontent.com/50594402/170433130-bcfd339f-022c-47fb-abee-9bf7067bfca1.jpg)
+* ![Vacancy](https://user-images.githubusercontent.com/50594402/170433136-c1bb2041-1e27-4fcb-b704-4095b38e4e24.jpg)
+* ![X - 1](https://user-images.githubusercontent.com/50594402/170433141-565e955d-a05d-441f-9499-91aa81367bec.jpg)
+* ![X - 4](https://user-images.githubusercontent.com/50594402/170433148-738d7916-5c06-4beb-8b39-0a03b4941204.jpg)
