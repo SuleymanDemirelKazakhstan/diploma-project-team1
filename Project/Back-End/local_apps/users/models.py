@@ -10,6 +10,9 @@ from .managers import CustomUserManager
 class Skill(models.Model):
     name = models.CharField(max_length=50)
 
+    class Meta:
+        ordering = ['id']
+
     def __str__(self):
         return self.name
 
@@ -30,7 +33,7 @@ class Customer(AbstractUser):
 
     class Meta:
         verbose_name_plural = 'Customers'
-        ordering = ['-date_joined']
+        ordering = ['-last_login']
 
     def __str__(self):
         return self.email
@@ -48,4 +51,7 @@ class Customer(AbstractUser):
 
     @property
     def image_url(self):
-        return BACKEND_URL + self.image.url
+        try:
+            return BACKEND_URL + self.image.url
+        except:
+            return 'None'
