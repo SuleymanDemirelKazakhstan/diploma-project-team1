@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ff74036-8882-4889-98db-166d1bc1456d" name="Changes" comment="deleted migration files">
+      <change beforePath="$PROJECT_DIR$/Project/Android/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/core/AppDiploma.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/core/AppDiploma.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/core/Module.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/core/Module.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/DiplomaApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/DiplomaApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/News.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/News.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Skill.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Subtopic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Technology.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Technology.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Topic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Topic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Vacancy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/model/Vacancy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/AuthRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/AuthRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/DashboardRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/DashboardRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/MainRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/repo/MainRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/requestBody/UserRequestBody.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/requestBody/UserRequestBody.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/responseBody/AuthResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/responseBody/AuthResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/responseBody/MainResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/data/responseBody/MainResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/ContainerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/ContainerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/CarouselIndicator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/CarouselIndicator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/NewsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/home/NewsAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/mentors/MentorsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/mentors/MentorsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/profile/ProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/profile/ProfileViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/profile/ProfileViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/roadmap/RoadmapFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/roadmap/RoadmapFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/roadmap/TechFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/roadmap/TechFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/FilterAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/FilterAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/RequirementsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/RequirementsAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacanciesViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacancyDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/dashboard/vacancies/VacancyDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/AuthViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/AuthViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/LoginFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/LoginFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/RegisterFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/login/RegisterFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/FirstFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/FirstFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/SecondFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/SecondFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/SplashFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/java/com/example/diploma/ui/splash/SplashFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/drawable/bg_layout_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/drawable/bg_layout_top.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/drawable/progress_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/drawable/progress_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/activity_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/activity_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_main_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_main_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_roadmap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_roadmap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_topics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_topics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_vacancy_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_fragment_vacancy_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_layout_technologies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_layout_technologies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_study_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/diploma_study_material.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_link.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_link.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_skill_approved.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_skill_approved.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_study_progress.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_study_progress.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_vacancy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/item_vacancy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/layout_roadmap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/layout/layout_roadmap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/recommendations/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/subtopic_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/subtopic_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/technology_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/technology_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/topic_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/serializers/topic_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/views/technology_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/api/views/technology_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/roadmaps/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/users/api/serializers/register_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/users/api/serializers/register_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/users/api/views/register_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/users/api/views/register_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/api/serializers/vacancy_serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/api/serializers/vacancy_serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Back-End/local_apps/vacancies/urls.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28SS57jTJqwedTMt0ntvQdwqhax" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff74036-8882-4889-98db-166d1bc1456d" name="Changes" comment="" />
+      <created>1651208307714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651208307714</updated>
+      <workItem from="1651208309637" duration="329000" />
+      <workItem from="1655268983059" duration="850000" />
+    </task>
+    <task id="LOCAL-00001" summary="added android">
+      <created>1651208370527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651208370527</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deleted migration files">
+      <created>1651208499882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651208499882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added android" />
+    <MESSAGE value="deleted migration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted migration files" />
+  </component>
+</project>
